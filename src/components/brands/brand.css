@@ -1,0 +1,52 @@
+  .brands {
+  background-color: white;
+   text-decoration: none;
+   margin-top: 10px;
+  }
+ .title {
+   color: #9aa2a5;
+   justify-content: flex-start;
+   display: flex;
+ }
+  .dee  {
+   display: flex;
+   justify-content: space-between;
+
+
+  }
+  .dad  {
+    display: flex;
+    justify-content: space-between;
+ 
+ 
+   }
+   .ded  {
+    display: flex;
+    justify-content: space-between;
+ 
+ 
+   }
+   
+  .daa  {
+    display: flex;
+    justify-content: space-between;
+ 
+ 
+   }
+   .hover {
+     margin:  10px;
+   border: solid white ;
+ width: 15% ;
+ height: 10%;
+ display: flex ;
+  justify-content: center;
+  flex-direction: column; 
+   }  
+
+
+   .boy {
+    margin-top: 30px;
+
+
+   } 
+   

@@ -1,0 +1,39 @@
+  .end_box {
+   width: 80%;
+   display: inline-block; 
+   color: #9aa2a5;
+   border : solid #9aa2a5  ;
+   margin-top: 10px;
+  }
+ .done {
+  width: 25%;
+  height: 10%;
+   display: flex;
+   flex-direction: column;
+   margin-left: 10px;
+ 
+   align-items: flex-start;
+ }
+
+  .well {
+display: flex;
+justify-content: space-between;
+   
+  }
+  .p {
+  height: px;
+
+    
+  }
+
+  .done_2 {
+
+    width: 25%;
+    height: 10%;
+     display: flex;
+     flex-direction: column;
+     margin-left: 10px;
+   
+
+
+  }
